@@ -1,0 +1,6 @@
+[submodule "tpick"]
+	path = tpick
+	url = git@github.com:smblott-github/tpick.git
+[submodule "dwm"]
+	path = dwm
+	url = https://gitlab.computing.dcu.ie/sblott/dwm
