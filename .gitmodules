@@ -4,3 +4,6 @@
 [submodule "dwm"]
 	path = dwm
 	url = https://gitlab.computing.dcu.ie/sblott/dwm
+[submodule "dmenu"]
+	path = dmenu
+	url = git@gitlab.computing.dcu.ie:sblott/dmenu.git
